@@ -1,0 +1,5 @@
+node_modules
+dist/*.map
+.pnpm-store
+.next
+.DS_Store
